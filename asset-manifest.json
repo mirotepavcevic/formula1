@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/formula1/static/css/main.93c84baf.chunk.css",
-    "main.js": "/formula1/static/js/main.890240e9.chunk.js",
-    "main.js.map": "/formula1/static/js/main.890240e9.chunk.js.map",
+    "main.css": "/formula1/static/css/main.568cd89c.chunk.css",
+    "main.js": "/formula1/static/js/main.210fc2af.chunk.js",
+    "main.js.map": "/formula1/static/js/main.210fc2af.chunk.js.map",
     "runtime-main.js": "/formula1/static/js/runtime-main.7a7f8258.js",
     "runtime-main.js.map": "/formula1/static/js/runtime-main.7a7f8258.js.map",
     "static/js/2.88bac501.chunk.js": "/formula1/static/js/2.88bac501.chunk.js",
     "static/js/2.88bac501.chunk.js.map": "/formula1/static/js/2.88bac501.chunk.js.map",
     "index.html": "/formula1/index.html",
-    "static/css/main.93c84baf.chunk.css.map": "/formula1/static/css/main.93c84baf.chunk.css.map",
+    "static/css/main.568cd89c.chunk.css.map": "/formula1/static/css/main.568cd89c.chunk.css.map",
     "static/js/2.88bac501.chunk.js.LICENSE.txt": "/formula1/static/js/2.88bac501.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7a7f8258.js",
     "static/js/2.88bac501.chunk.js",
-    "static/css/main.93c84baf.chunk.css",
-    "static/js/main.890240e9.chunk.js"
+    "static/css/main.568cd89c.chunk.css",
+    "static/js/main.210fc2af.chunk.js"
   ]
 }
