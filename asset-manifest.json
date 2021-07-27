@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/formula1/static/css/main.0da6cb6f.chunk.css",
-    "main.js": "/formula1/static/js/main.1de64bb1.chunk.js",
-    "main.js.map": "/formula1/static/js/main.1de64bb1.chunk.js.map",
+    "main.js": "/formula1/static/js/main.6655aa1b.chunk.js",
+    "main.js.map": "/formula1/static/js/main.6655aa1b.chunk.js.map",
     "runtime-main.js": "/formula1/static/js/runtime-main.7a7f8258.js",
     "runtime-main.js.map": "/formula1/static/js/runtime-main.7a7f8258.js.map",
     "static/js/2.88bac501.chunk.js": "/formula1/static/js/2.88bac501.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7a7f8258.js",
     "static/js/2.88bac501.chunk.js",
     "static/css/main.0da6cb6f.chunk.css",
-    "static/js/main.1de64bb1.chunk.js"
+    "static/js/main.6655aa1b.chunk.js"
   ]
 }
